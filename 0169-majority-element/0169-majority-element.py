@@ -1,12 +1,13 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         # [1,1,2,2] -> no majority, but we won't have to worry about this case as majority is guaranteed to always exist
+        # Could you in O(n) time and O(1) space?
 
         # M1: sort -> majority element will sure to be found at the middle of nums (O(nlogn))
 
         # M2: use dict to store frequency -> O(n) time + space
         
-        # M3: Moore Voting Algorithm 
+        # M3: Moore Voting Algorithm (O(n) time, O(1) space)
         # fact: if there's a majority in array, it will always remain in the lead even after encountering other elements
         # consider encountering the majority elem is 1 upvote, encountering other elems is 1 downvote 
         # -> if there's a majority elem, we'll endup with a positive number of votes
