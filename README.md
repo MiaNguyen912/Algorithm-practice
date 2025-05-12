@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0347-top-k-frequent-elements) |
 | [1293-three-consecutive-odds](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1293-three-consecutive-odds) |
 | [1762-furthest-building-you-can-reach](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1762-furthest-building-you-can-reach) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0049-group-anagrams) |
 | [1304-longest-happy-string](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1304-longest-happy-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
