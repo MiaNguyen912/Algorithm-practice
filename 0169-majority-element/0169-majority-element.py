@@ -14,14 +14,23 @@ class Solution:
         # Here, we dont know which one is majority elem to upvote, but we know that if we assume a random elem as majority,
         #   if it's not the actual majority, it'll be canceled out (downvoted to 0) by other elems or by the real majority elem;
         #   if it's the real majority, it may be canceled out by other elems, but eventually it'd still be alive no elems left to cancel it
-        count = 1
-        major = nums[0]
-        for num in nums[1:]:
-            if num == major:
-                count += 1
-            else:
-                count -= 1
-            if count == 0:
-                major = num
-                count = 1         
-        return major
+       
+        # count = 1
+        # major = nums[0]
+        # for num in nums[1:]:
+        #     if num == major:
+        #         count += 1
+        #     else:
+        #         count -= 1
+        #     if count == 0:
+        #         major = num
+        #         count = 1         
+        # return major
+
+        # M4: bit operation
+        result = 0
+        for i in range(32):
+            bit_count = sum(1 for num in nums if num & (1 << i))
+            if bit_count > len(nums)//2:
+                result |= (1 << i)
+        return result if result < 2**31 else result - 2**32
