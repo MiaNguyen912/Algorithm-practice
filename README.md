@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1014-k-closest-points-to-origin) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1293-three-consecutive-odds](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1293-three-consecutive-odds) |
 | [1762-furthest-building-you-can-reach](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1762-furthest-building-you-can-reach) |
 ## Hash Table
@@ -49,11 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1304-longest-happy-string) |
 | [1762-furthest-building-you-can-reach](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1762-furthest-building-you-can-reach) |
 ## Bucket Sort
@@ -69,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1014-k-closest-points-to-origin) |
 ## Greedy
 |  |
 | ------- |
@@ -88,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0013-roman-to-integer) |
+| [1014-k-closest-points-to-origin](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1014-k-closest-points-to-origin) |
 ## Tree
 |  |
 | ------- |
@@ -114,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0969-number-of-recent-calls) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
