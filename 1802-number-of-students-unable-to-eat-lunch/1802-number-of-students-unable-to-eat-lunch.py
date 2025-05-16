@@ -30,21 +30,3 @@ class Solution:
             else: # no one else wants that sandwich type
                 break
         return countStudents[0] + countStudents[1] 
-
-
-
-
-
-        # M3: 
-        # counts = [0, 0]
-        # for student in students:
-        #     counts[student] += 1
-        # remaining = len(sandwiches)
-        # for sandwich in sandwiches:
-        #     if counts[sandwich] == 0:
-        #         break
-        #     if remaining == 0:
-        #         break
-        #     counts[sandwich] -= 1
-        #     remaining -= 1
-        # return remaining
