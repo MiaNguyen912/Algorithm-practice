@@ -1,7 +1,6 @@
 class NumArray:
 
     def __init__(self, nums: List[int]):
-        self.nums = nums # not empty
         self.prefix_sum = [0] * (len(nums)+1) 
 
         # create a prefix sum array
