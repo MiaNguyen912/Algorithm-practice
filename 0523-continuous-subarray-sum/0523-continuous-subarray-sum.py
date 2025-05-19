@@ -19,14 +19,15 @@ class Solution:
         # return False
 
         # better M:
-        pre = 0
-        mp = defaultdict(int)      
-        for i in range(len(nums)):
+        pre = nums[0]
+        mp = defaultdict(int)   
+        mp[pre%k] = 0   
+        for i in range(1,len(nums)):
             pre += nums[i]
             remainder = pre % k
-            if remainder == 0 and i > 0: 
+            if remainder == 0: 
                 return True
-            elif remainder in mp and i > 0:
+            elif remainder in mp:
                 if i - mp[remainder] >= 2:
                     return True
             else:
