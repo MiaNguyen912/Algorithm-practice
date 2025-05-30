@@ -45,7 +45,7 @@ class Solution:
         #         ttl += timeSeries[i+1] - timeSeries[i]
         # return ttl + duration  # Return the total + the damage duration from the last time interval
         
-
+        # M4:
         poison = 0
         start = None
         for i in range(len(timeSeries)-1):
