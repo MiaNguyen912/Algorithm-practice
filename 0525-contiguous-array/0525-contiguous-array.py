@@ -1,6 +1,6 @@
 class Solution:
     def findMaxLength(self, nums: List[int]) -> int:
-        #
+         #
         # mp = defaultdict(lambda: len(nums))
         # a=b=0
         # pre = 0
@@ -24,10 +24,7 @@ class Solution:
         for i in range(len(nums)):
             pre += 1 if nums[i]==1 else -1 # pre is diff of 1 and 0
             if pre in mp:
-                result = max(result, i - mp[pre])
+                result = max(result, i - mp[pre]) # find the longest subarr
             else:
-                mp[pre] = i
+                mp[pre] = i # pre[i] store (num of 1s - num of 0s) upto index i
         return result
-                
-
-
