@@ -8,5 +8,6 @@ class Solution:
             if sorted(s[i-len(p):i])==p:
                 output.append(i-len(p))
         return output
+        
 
 
