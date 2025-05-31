@@ -13,7 +13,7 @@ class Solution:
             mp[c] += 1
             all_counts = mp.values()
             majority_count = max(all_counts)
-            while sum(mp.values()) - max(mp.values()) > k and l<=r: # invalid window, cut left
+            while (r-l+1) - max(mp.values()) > k and l<=r: # invalid window, cut left
                 mp[s[l]] -= 1
                 l += 1
             max_len = max(max_len, r-l+1)
