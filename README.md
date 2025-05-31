@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1293-three-consecutive-odds) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1762-furthest-building-you-can-reach](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1762-furthest-building-you-can-reach) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0560-subarray-sum-equals-k) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0713-subarray-product-less-than-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1321-get-equal-substrings-within-budget) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1321-get-equal-substrings-within-budget](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1321-get-equal-substrings-within-budget) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0713-subarray-product-less-than-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1321-get-equal-substrings-within-budget) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
