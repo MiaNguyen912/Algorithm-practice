@@ -7,7 +7,7 @@ class Solution:
 
         max_profit = 0
         min_l = prices[0]
-        for r,curr_price in enumerate(prices):
+        for curr_price in prices:
             if curr_price > min_l:
                 max_profit = max(max_profit, curr_price - min_l)
             min_l = min(min_l, curr_price)
