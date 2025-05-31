@@ -5,13 +5,12 @@ class Solution:
         #       at least 1 vowel, 1 consonant
         if len(word)<3:
             return False
-        word = word.lower()
         vowel = ['a', 'e', 'i', 'o', 'u']
         has_vowel = has_consonant = False
         for c in word:
             if not c.isalnum():
                 return False
-            if c in vowel:
+            if c.lower() in vowel:
                 has_vowel = True
             else:
                 if c.isalpha():
