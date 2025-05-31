@@ -11,8 +11,6 @@ class Solution:
         l = 0
         for r,c in enumerate(s):
             mp[c] += 1
-            all_counts = mp.values()
-            majority_count = max(all_counts)
             while (r-l+1) - max(mp.values()) > k and l<=r: # invalid window, cut left
                 mp[s[l]] -= 1
                 l += 1
