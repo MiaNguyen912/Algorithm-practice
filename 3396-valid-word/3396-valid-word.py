@@ -13,8 +13,7 @@ class Solution:
             if c.lower() in vowel:
                 has_vowel = True
             else:
-                if c.isalnum():
-                    if c.isalpha():
-                        has_consonant = True
+                if c.isalpha():
+                    has_consonant = True
         return has_vowel and has_consonant
         
