@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0303-range-sum-query-immutable) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0525-contiguous-array) |
