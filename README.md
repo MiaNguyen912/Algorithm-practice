@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0219-contains-duplicate-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0347-top-k-frequent-elements) |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
