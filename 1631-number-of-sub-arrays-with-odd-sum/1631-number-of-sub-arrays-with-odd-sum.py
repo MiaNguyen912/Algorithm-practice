@@ -8,35 +8,18 @@ class Solution:
         #   => pre[i] and pre[x] are 1 odd and 1 even
         #   => use a map to count number of odd/even numbers in pre upto i at each i
 
-        # pre = [0]*len(arr)
-        # pre[0] = arr[0]
-        # for i in range(1, len(arr)):
-        #     pre[i] = pre[i-1] + arr[i]
-        # mp = defaultdict(int)
-        # MOD = (10**9 + 7)
-        # mp[0] = 1 # sum of ([] %2) = 1
-        # count = 0
-        # for i in range(len(arr)):
-        #     count = (count + mp[(pre[i]%2 + 1)%2]) % MOD
-        #     mp[pre[i]%2] += 1
-        # return count 
-
-        pre = [arr[0]] * len(arr)
-        for i in range(1,len(arr)):
-            pre[i] = arr[i] + pre[i-1]
-        count = 0
-        MOD = 10**9+7
+        pre = [0]*len(arr)
+        pre[0] = arr[0]
+        for i in range(1, len(arr)):
+            pre[i] = pre[i-1] + arr[i]
         mp = defaultdict(int)
-        mp[0] = 1 # empty array [] has sum == 0 
+        MOD = (10**9 + 7)
+        mp[0] = 1 # sum of ([] %2) = 1
+        count = 0
         for i in range(len(arr)):
-            target_pre_L_mod_2 = (pre[i]%2 + 1)%2 # we need to find any sum in mp equals to target_pre_L_mod_2
-            count += mp[target_pre_L_mod_2]
-            count %= MOD
-            mp[pre[i]%2] += 1 # save the current sum %2
-        return count
-
-
-
+            count = (count + mp[(pre[i]%2 + 1)%2]) % MOD
+            mp[pre[i]%2] += 1
+        return count 
 
         #------------
         # mod=10**9+7
