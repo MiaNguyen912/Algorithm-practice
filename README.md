@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0940-fruit-into-baskets) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [3395-minimum-length-of-anagram-concatenation](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/3395-minimum-length-of-anagram-concatenation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0347-top-k-frequent-elements) |
+| [3395-minimum-length-of-anagram-concatenation](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/3395-minimum-length-of-anagram-concatenation) |
 ## Quickselect
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1304-longest-happy-string](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1304-longest-happy-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1321-get-equal-substrings-within-budget) |
+| [3395-minimum-length-of-anagram-concatenation](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3396-valid-word](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/3396-valid-word) |
 ## Sliding Window
 |  |
