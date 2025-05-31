@@ -31,15 +31,13 @@ class Solution:
         #--------------------------
         # M2: sliding window (faster)
         target = sum(nums) - x
-        if target < 0:
-            return -1
         if target == 0:
             return len(nums)
         l = max_len = 0
         window_sum = 0
         for r in range(len(nums)):
             window_sum += nums[r]
-            while window_sum > target: # cut left
+            while window_sum > target and l<=r: # cut left
                 window_sum -= nums[l]
                 l += 1
             if window_sum == target:
