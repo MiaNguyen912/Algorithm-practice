@@ -25,6 +25,7 @@ class Solution:
 
 
         #-----------------------
+        # M2: use dict to store len of consecutive sequence before and after each num
         # key: a number from the input array, 
         # value: length of a consecutive sequence with that number as either the upper or lower bound of the sequence.
         nums = set(nums)
