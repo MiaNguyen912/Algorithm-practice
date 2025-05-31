@@ -103,12 +103,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0049-group-anagrams) |
 | [1304-longest-happy-string](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1304-longest-happy-string) |
+| [1321-get-equal-substrings-within-budget](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1321-get-equal-substrings-within-budget) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0713-subarray-product-less-than-k) |
+| [1321-get-equal-substrings-within-budget](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1321-get-equal-substrings-within-budget) |
 ## Math
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1321-get-equal-substrings-within-budget](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1321-get-equal-substrings-within-budget) |
 ## Binary Tree
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0713-subarray-product-less-than-k) |
+| [1321-get-equal-substrings-within-budget](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1321-get-equal-substrings-within-budget) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Dynamic Programming
 |  |
