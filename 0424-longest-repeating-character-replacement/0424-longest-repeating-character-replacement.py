@@ -9,9 +9,11 @@ class Solution:
         mp = defaultdict(int)
         max_len = 0
         l = 0
+        max_freq = 0
         for r,c in enumerate(s):
             mp[c] += 1
-            while (r-l+1) - max(mp.values()) > k and l<=r: # invalid window, cut left
+            max_freq = max(max_freq,  mp[c])
+            while (r-l+1) - max_freq > k and l<=r: # invalid window, cut left
                 mp[s[l]] -= 1
                 l += 1
             max_len = max(max_len, r-l+1)
