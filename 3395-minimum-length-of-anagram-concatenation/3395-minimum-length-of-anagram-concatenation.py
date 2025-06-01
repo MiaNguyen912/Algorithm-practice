@@ -17,54 +17,74 @@ class Solution:
         #             return size         
         # return n
 
-
+        #---------------------------------
         # M2: same as M1, but using Counter() to get the hashable value of string instead of sort() it (O(n^2))
-        s = list(s)
+        # s = list(s)
+        # n = len(s)
+        # ans = n
+        # for size in range(1, n):
+        #     if n % size == 0: 
+        #         count = Counter(s[:size]) # O(n)
+        #         for j in range(size, n, size):
+        #             temp = Counter(s[j:j+size])
+        #             if count != temp:
+        #                 break
+        #         else:
+        #             return size
+        # return ans
+
+
+
+
+        # M3: use the characteristic of number to find possible number x in range 1->n s.t n%x==0
+        # - x is [1, sqrt(n)] + all numbers i = n/a for a in [1, sqrt(n)]
+
+        sqrt_n = math.sqrt(len(s))
         n = len(s)
-        ans = n
-        for size in range(1, n):
-            if n % size == 0: 
-                count = Counter(s[:size]) # O(n)
-                for j in range(size, n, size):
-                    temp = Counter(s[j:j+size])
-                    if count != temp:
-                        break
-                else:
-                    return size
-        return ans
+        consider = []
+        for i in range(1,math.ceil(sqrt_n)+1):
+            if n%i == 0:
+                consider.append(i)
+        temp = []
+        for num in consider:
+            temp.append(n//num)
+        consider += temp[::-1]
+        print(consider)
+        for anagram_len in consider:
+            anagram = s[:anagram_len]
+            valid = True
+            for j in range(anagram_len, len(s), anagram_len):
+                if sorted(s[j:j+anagram_len]) != sorted(anagram):
+                    valid = False
+                    break
+            if valid:
+                return anagram_len
 
 
 
 
 
 
+        #---------------------------------
+        # M3: find Greatest common divisor (GCD) between s and t
+        # - gcd(a mod b,b) = gcd(a,b).
+       
 
-
-
-
-
-         # Get the length of the input string 's'
-        n = len(s)
-
-        # Define a helper function to calculate the greatest common divisor (GCD)
-        def gcd(a, b):
-            # Euclidean algorithm to find GCD
-            while b != 0:
-                temp = b
-                b = a % b
-                a = temp
-            return a
-
-        # Count the occurrences of each character in 's' using Counter
-        hashmap = Counter(s)
-
-        # Initialize the divisor with the count of the first character in 's'
-        div = hashmap[s[0]]
-
-        # Iterate over the counts of characters in the hashmap
-        for key, value in hashmap.items():
-            # Update the divisor by finding the GCD of the current count and the previous divisor
-            div = gcd(div, value)
+        # counter = Counter(s)
         
-        # Return the minimum length of 't', which is the length of 's' divided by the divisor
-        return n // div
+        # counts = [v for k,v in counter.items()]
+        
+        # def gcd_of_list(numbers):
+        #     result = numbers[0]
+        #     for num in numbers[1:]:
+        #         result = math.gcd(result, num)
+        #     return result
+    
+        # g = gcd_of_list(counts)
+        
+        # total = 0
+        # for c in counts:
+        #     total += c//g
+        
+        # return total
+
