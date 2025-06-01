@@ -39,18 +39,56 @@ class Solution:
         # M3: use the characteristic of number to find possible number x in range 1->n s.t n%x==0
         # - x is [1, sqrt(n)] + all numbers i = n/a for a in [1, sqrt(n)]
 
-        sqrt_n = math.sqrt(len(s))
-        n = len(s)
-        consider = []
-        for i in range(1,math.ceil(sqrt_n)+1):
-            if n%i == 0:
-                consider.append(i)
-        temp = []
-        for num in consider:
-            temp.append(n//num)
-        consider += temp[::-1]
-        print(consider)
-        for anagram_len in consider:
+        # sqrt_n = math.sqrt(len(s))
+        # n = len(s)
+        # consider = []
+        # for i in range(1,math.ceil(sqrt_n)+1):
+        #     if n%i == 0:
+        #         consider.append(i)
+        # temp = []
+        # for num in consider:
+        #     temp.append(n//num)
+        # consider += temp[::-1]
+        # print(consider)
+        # for anagram_len in consider:
+        #     anagram = s[:anagram_len]
+        #     valid = True
+        #     for j in range(anagram_len, len(s), anagram_len):
+        #         if sorted(s[j:j+anagram_len]) != sorted(anagram):
+        #             valid = False
+        #             break
+        #     if valid:
+        #         return anagram_len
+
+
+
+
+
+
+        #---------------------------------
+        # M4: find Greatest common divisor (GCD) between s and t
+        # - gcd(a mod b,b) = gcd(a,b).
+       
+
+        counter = Counter(s)
+        
+        counts = [v for k,v in counter.items()]
+        
+        def gcd_of_list(numbers):
+            result = numbers[0]
+            for num in numbers[1:]:
+                result = math.gcd(result, num)
+            return result
+    
+        g = gcd_of_list(counts)
+        print(g)
+        
+        total = 0
+        for c in counts:
+            total += c//g
+        print(total) # possible valid anagrams will have len = i*total, len <=len(s)
+        for i in range(1,len(s)//total + 1):
+            anagram_len = total*i
             anagram = s[:anagram_len]
             valid = True
             for j in range(anagram_len, len(s), anagram_len):
@@ -59,32 +97,3 @@ class Solution:
                     break
             if valid:
                 return anagram_len
-
-
-
-
-
-
-        #---------------------------------
-        # M3: find Greatest common divisor (GCD) between s and t
-        # - gcd(a mod b,b) = gcd(a,b).
-       
-
-        # counter = Counter(s)
-        
-        # counts = [v for k,v in counter.items()]
-        
-        # def gcd_of_list(numbers):
-        #     result = numbers[0]
-        #     for num in numbers[1:]:
-        #         result = math.gcd(result, num)
-        #     return result
-    
-        # g = gcd_of_list(counts)
-        
-        # total = 0
-        # for c in counts:
-        #     total += c//g
-        
-        # return total
-
