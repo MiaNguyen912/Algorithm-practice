@@ -68,12 +68,9 @@ class Solution:
         #---------------------------------
         # M4: find Greatest common divisor (GCD) between s and t
         # - gcd(a mod b,b) = gcd(a,b).
-       
-
+    
         counter = Counter(s)
-        
         counts = [v for k,v in counter.items()]
-        
         def gcd_of_list(numbers):
             result = numbers[0]
             for num in numbers[1:]:
@@ -81,12 +78,12 @@ class Solution:
             return result
     
         g = gcd_of_list(counts)
-        print(g)
+        # print(g)
         
         total = 0
         for c in counts:
             total += c//g
-        print(total) # possible valid anagrams will have len = i*total, len <=len(s)
+        # print(total) # possible valid anagrams will have len = i*total, len <=len(s)
         for i in range(1,len(s)//total + 1):
             anagram_len = total*i
             anagram = s[:anagram_len]
