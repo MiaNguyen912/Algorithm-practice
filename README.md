@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0506-relative-ranks) |
+| [0976-minimum-area-rectangle](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1014-k-closest-points-to-origin) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Array
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0940-fruit-into-baskets) |
+| [0976-minimum-area-rectangle](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1293-three-consecutive-odds) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0940-fruit-into-baskets) |
+| [0976-minimum-area-rectangle](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0976-minimum-area-rectangle) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/3395-minimum-length-of-anagram-concatenation) |
 ## Divide and Conquer
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0013-roman-to-integer) |
 | [0523-continuous-subarray-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0523-continuous-subarray-sum) |
+| [0976-minimum-area-rectangle](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0976-minimum-area-rectangle](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1014-k-closest-points-to-origin) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Simulation
