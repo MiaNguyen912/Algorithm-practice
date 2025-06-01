@@ -14,7 +14,7 @@ class Solution:
             return -1
         points = sorted(points) # [[1, 1], [1, 3], [3, 1], [3, 3]]
         points_set = set([tuple(p) for p in points]) # change to set since `if i in points_set` is O(1)
-        print(points_set) # {(3, 1), (1, 1), (3, 3), (1, 3)}
+        # print(points_set) # {(3, 1), (1, 1), (3, 3), (1, 3)}
 
         max_area = -1
         for i in range(len(points) - 3):
