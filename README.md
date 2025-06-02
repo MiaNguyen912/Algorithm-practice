@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0506-relative-ranks) |
 | [0976-minimum-area-rectangle](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1014-k-closest-points-to-origin) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Array
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Hash Table
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0940-fruit-into-baskets) |
 | [0976-minimum-area-rectangle](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0976-minimum-area-rectangle) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/3395-minimum-length-of-anagram-concatenation) |
 ## Divide and Conquer
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1304-longest-happy-string) |
 | [1762-furthest-building-you-can-reach](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1762-furthest-building-you-can-reach) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Bucket Sort
 |  |
 | ------- |
