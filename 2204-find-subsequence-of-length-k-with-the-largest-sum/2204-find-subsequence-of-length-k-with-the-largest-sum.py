@@ -1,0 +1,14 @@
+class Solution:
+    def maxSubsequence(self, nums: List[int], k: int) -> List[int]:
+        # max subsequence length k is the k largest items
+        # => find k largest items while maintaining their relative order
+        # M1: store all (value, index) in max_heap -> pop k times to get k largest items
+        # -> sort them by index => O(nlogn)
+
+        # M2: build a list of (val,index), sorted by val, then get the top k items 
+        # -> sort again by index => O(nlogn)
+        pairs = [(value, idx) for idx, value in enumerate(nums)]
+        pairs.sort(key=lambda pair: (pair[0], pair[1])) # [(1, 1), (2, 0), (3, 2), (3, 3)]
+        top_k = pairs[-k:]
+        top_k.sort(key=lambda pair : pair[1])
+        return [val for val,index in top_k]
