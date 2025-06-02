@@ -18,6 +18,6 @@ class Solution:
                 cost -= abs(ord(s[l]) - ord(t[l]))
                 l += 1
             # at this point, s[l->r] is the longest substr that ends at r with cost <= maxCost
-            if cost <= maxCost:
-                max_len = max(max_len, r-l+1)
+            # if cost <= maxCost:
+            max_len = max(max_len, r-l+1)
         return max_len
