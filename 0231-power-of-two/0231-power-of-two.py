@@ -12,13 +12,14 @@ class Solution:
         #         return True
         # return False
 
-        # M2: keep dividing by 2 until n == 1, if can't be 1 -> return False
-        if n <=0:
+        # M2: bit manipulation
+
+        # M3: recursion
+        if n == 1:
+            return True
+        if n<=0:
             return False
-        while n > 1:
-            n /= 2
-        # at this point, n <= 1
-        if n < 1:
-            return False
-        return True
+        
+        return self.isPowerOfTwo(n/2)
+
 
