@@ -6,12 +6,12 @@ class Solution:
         # => use a map to record number of occurence of items in pre upto the current i
         count = 0
         pre = 0
-        mp = defaultdict(int) # stores <sum([:i]): count>
+        mp = dict() # stores <sum([:i]): count>
         mp[0] = 1 # <sum([]) : 1>
         for i,curr in enumerate(nums):
             pre += curr
             target = pre - k
-            count += mp[target]
-            mp[pre] += 1
+            count += mp.get(target, 0)
+            mp[pre] =  mp.get(pre, 0) + 1
         return count
 
