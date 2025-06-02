@@ -37,10 +37,10 @@ class Solution:
             print(l)
 
         mid = findMiddle(head)
-        printList(head) # [1,2]
-        printList(mid) # [2,1]
+        # printList(head) # [1,2]
+        # printList(mid) # [2,1]
         second_head = reverse(mid)
-        printList(second_head) # [1,2]
+        # printList(second_head) # [1,2]
         while head and second_head:
             if head.val != second_head.val:
                 return False
