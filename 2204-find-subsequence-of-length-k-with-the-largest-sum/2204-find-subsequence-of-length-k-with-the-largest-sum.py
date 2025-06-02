@@ -12,22 +12,12 @@ class Solution:
         #     top_k.append(heappop(max_h))
         # top_k.sort(key=lambda pair:pair[1])
         # return [-val for val,i in top_k]
-        num=[-i for i in nums]
-        l=[]
-        a=[]
-        heapq.heapify(num)
-        for i in range(k):
-            l.insert(0,-heapq.heappop(num))
-        for i in nums:
-            if i in l:
-                l.remove(i)
-                a.append(i)
-        return a
+
 
         # M2: build a list of (val,index), sorted by val, then get the top k items 
         # -> sort again by index => O(nlogn)
-        # pairs = [(value, idx) for idx, value in enumerate(nums)]
-        # pairs.sort(key=lambda pair: (pair[0], pair[1])) # [(1, 1), (2, 0), (3, 2), (3, 3)]
-        # top_k = pairs[-k:]
-        # top_k.sort(key=lambda pair : pair[1])
-        # return [val for val,index in top_k]
+        pairs = [(value, idx) for idx, value in enumerate(nums)]
+        pairs.sort(key=lambda pair: (pair[0], pair[1])) # [(1, 1), (2, 0), (3, 2), (3, 3)]
+        top_k = pairs[-k:]
+        top_k.sort(key=lambda pair : pair[1])
+        return [val for val,index in top_k]
