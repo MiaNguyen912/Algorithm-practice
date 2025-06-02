@@ -14,10 +14,9 @@ class Solution:
         max_len = 0
         for r in range(len(s)):
             cost += abs(ord(s[r]) - ord(t[r])) # ord() convert char to ascii value
-            if cost > maxCost: # cut left (ascii values span from 97->122 => dont need while loop here as we'd never cut more than 1 leftmost char for each right char added)
+            while cost > maxCost: # cut left (ascii values span from 97->122 => dont need while loop here as we'd never cut more than 1 leftmost char for each right char added)
                 cost -= abs(ord(s[l]) - ord(t[l]))
                 l += 1
             # at this point, s[l->r] is the longest substr that ends at r with cost <= maxCost
-            # if cost <= maxCost:
             max_len = max(max_len, r-l+1)
         return max_len
