@@ -53,5 +53,6 @@ class Solution:
                 diff_1_0 += 1
             if diff_1_0 in mp:
                 max_len = max(max_len, r - mp[diff_1_0])
-            mp[diff_1_0] = min(mp.get(diff_1_0, r), r) # store the leftmost index
+            else: 
+                mp[diff_1_0] = r # store the leftmost index
         return max_len
