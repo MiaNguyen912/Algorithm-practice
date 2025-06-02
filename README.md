@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0523-continuous-subarray-sum) |
 | [0976-minimum-area-rectangle](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1014-k-closest-points-to-origin) |
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
