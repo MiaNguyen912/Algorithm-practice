@@ -12,24 +12,8 @@ class Solution:
         currA = headA
         currB = headB
         
-        while currA and currB:
-            if not currA and not currB:
-                return None
-            elif currA == currB:
-                return currA
-
-            currA = currA.next
-            currB = currB.next
-            
-            if not currA and not currB:
-                return None
-            elif currA == currB:
-                return currA
-
-            if not currA: # reach the end -> go to next list
-                currA = headB
-            if not currB: # reach the end -> go to next list
-                currB = headA
-            
-        # currA: 2 6 4      1 4 
-        # currB: 1 5 None 2 6 5
+        while currA != currB:
+            currA = currA.next if currA else headB
+            currB = currB.next if currB else headA
+        
+        return currA
