@@ -77,9 +77,8 @@ class Solution:
                 result = math.gcd(result, num)
             return result
     
-        g = gcd_of_list(counts) # if {a:4,b:4,c:2} -> gcd = 2 -> s can be divided into a max of 2 anagram substrings 
-                                # => if s = aaabbb -> gcd = 3 -> s can be divided into 1,2,or 3 segments
-        
+        g = gcd_of_list(counts) # if s=abbacaabbc->{a:4,b:4,c:2}-> gcd = 2 -> s can be divided into a max of 2 anagram substrings 
+                                # => if s = aaabbb -> gcd = 3 -> s can be divided into 1 or 3 segments 
         for i in range(g,0,-1):
             anagram_len = len(s)//i
             anagram = s[:anagram_len]
@@ -90,24 +89,3 @@ class Solution:
                     break
             if valid:
                 return anagram_len
-        
-        
-        
-        
-        
-        
-        
-        # total = 0
-        # for c in counts:
-        #     total += c//g # find the len of
-
-        # for i in range(1,len(s)//total + 1): # possible valid anagrams will have len = i*total, len <=len(s)
-        #     anagram_len = total*i
-        #     anagram = s[:anagram_len]
-        #     valid = True
-        #     for j in range(anagram_len, len(s), anagram_len):
-        #         if sorted(s[j:j+anagram_len]) != sorted(anagram):
-        #             valid = False
-        #             break
-        #     if valid:
-        #         return anagram_len
