@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0169-majority-element) |
