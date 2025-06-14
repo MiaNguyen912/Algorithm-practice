@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0234-palindrome-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0908-middle-of-the-linked-list) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-minimum-area-rectangle](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1014-k-closest-points-to-origin) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Array
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Hash Table
 |  |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1321-get-equal-substrings-within-budget) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Tree
 |  |
 | ------- |
