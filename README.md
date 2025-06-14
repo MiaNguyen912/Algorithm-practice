@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2665-minimum-time-to-repair-cars](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Hash Table
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1321-get-equal-substrings-within-budget) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2665-minimum-time-to-repair-cars](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Tree
 |  |
