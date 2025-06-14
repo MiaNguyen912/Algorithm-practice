@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0713-subarray-product-less-than-k) |
+| [0907-koko-eating-bananas](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0940-fruit-into-baskets) |
 | [0976-minimum-area-rectangle](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1014-k-closest-points-to-origin) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0907-koko-eating-bananas](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0907-koko-eating-bananas) |
 | [0975-range-sum-of-bst](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0975-range-sum-of-bst) |
 | [1046-max-consecutive-ones-iii](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1321-get-equal-substrings-within-budget) |
