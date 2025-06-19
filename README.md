@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0506-relative-ranks) |
 | [0976-minimum-area-rectangle](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1014-k-closest-points-to-origin) |
+| [1675-magnetic-force-between-two-balls](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1675-magnetic-force-between-two-balls) |
 | [1962-single-threaded-cpu](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1962-single-threaded-cpu) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1675-magnetic-force-between-two-balls](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1675-magnetic-force-between-two-balls) |
 | [1762-furthest-building-you-can-reach](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1762-furthest-building-you-can-reach) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1321-get-equal-substrings-within-budget) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1675-magnetic-force-between-two-balls](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1675-magnetic-force-between-two-balls) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2665-minimum-time-to-repair-cars](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/2699-count-the-number-of-fair-pairs) |
