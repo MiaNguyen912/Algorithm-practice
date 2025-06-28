@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0940-fruit-into-baskets) |
 | [0976-minimum-area-rectangle](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1014-k-closest-points-to-origin) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0940-fruit-into-baskets) |
 | [0976-minimum-area-rectangle](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0976-minimum-area-rectangle) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/3395-minimum-length-of-anagram-concatenation) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0713-subarray-product-less-than-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1321-get-equal-substrings-within-budget) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
