@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0496-next-greater-element-i) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Recursion
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0495-teemo-attacking](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0525-contiguous-array) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0560-subarray-sum-equals-k) |
@@ -333,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
