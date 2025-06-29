@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0739-daily-temperatures) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Recursion
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0940-fruit-into-baskets) |
 | [0976-minimum-area-rectangle](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0976-minimum-area-rectangle) |
@@ -340,4 +342,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
