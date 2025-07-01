@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0015-3sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0056-merge-intervals) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0789-kth-largest-element-in-a-stream) |
