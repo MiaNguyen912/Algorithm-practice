@@ -19,24 +19,16 @@ class MyCalendar:
         # return True
 
         # -------plan 2: use bisect_right() to find the 2 closest events in calendar and check if they overlap
-        closest_e_index = self.calendar.bisect_right([startTime, endTime]) # this event has start time > curr startTime
-        # |--------|    curr_event    |-------|
-        print(closest_e_index, [startTime, endTime])
-        if not self.calendar:
-            self.calendar.add([startTime, endTime])
-            return True
-        if closest_e_index == 0:  # if the closest is the earliest event
-            if endTime > self.calendar[closest_e_index][0]:
-                return False
-        elif closest_e_index == len(self.calendar):  # if the closest is the last event
-            if startTime < self.calendar[closest_e_index-1][1]:
-                return False
-        elif endTime > self.calendar[closest_e_index][0] or startTime < self.calendar[closest_e_index-1][1]:
+        closest_e = self.calendar.bisect_right([startTime, endTime]) # this event has start time > curr startTime
+        
+        # if calendar is empty, closest_e_index==0
+        # check left and right of current event to see overlap
+        if closest_e-1 >= 0 and startTime < self.calendar[closest_e-1][1]: # if exist the closest left and overlap
+            return False
+        if closest_e < len(self.calendar) and endTime > self.calendar[closest_e][0]: #if exist closest right and overlap
             return False
         self.calendar.add([startTime, endTime])
         return True
-
-
 
 
         
