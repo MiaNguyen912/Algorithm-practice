@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0739-daily-temperatures) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Recursion
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0495-teemo-attacking](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0525-contiguous-array) |
@@ -349,5 +351,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/MiaNguyen912/Algorithm-practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
